@@ -5,22 +5,22 @@
     {
       "title": "Monument of Berlin",
       "location": "Berlin, Germany",
-      "image": "/en/images/travel/01.webp"
+      "image": "/my/images/travel/01.webp"
     },
     {
       "title": "Millennium Bridge",
       "location": "London, United Kingdom",
-      "image": "/en/images/travel/02.webp"
+      "image": "/my/images/travel/02.webp"
     },
     {
       "title": "Rialto Bridge",
       "location": "Venice, Italy",
-      "image": "/en/images/travel/03.webp"
+      "image": "/my/images/travel/03.webp"
     },
     {
       "title": "Sea of Orange Tiles",
       "location": "Lisbon, Portugal",
-      "image": "/en/images/travel/04.webp"
+      "image": "/my/images/travel/04.webp"
     }
   ]
 }

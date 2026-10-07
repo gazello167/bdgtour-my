@@ -1,37 +1,37 @@
 {
   "menu": [
     {
-      "url": "/en/",
+      "url": "/my/",
       "text": "Home"
     },
     {
-      "url": "/en/destinations/",
+      "url": "/my/destinations/",
       "text": "Destinations"
     },
     {
-      "url": "/en/things-to-do/",
+      "url": "/my/things-to-do/",
       "text": "Things to Do"
     },
     {
-      "url": "/en/food/",
+      "url": "/my/food/",
       "text": "Food"
     },
     {
-      "url": "/en/hotels/",
+      "url": "/my/hotels/",
       "text": "Hotels"
     },
     {
-      "url": "/en/travel-tips/",
+      "url": "/my/travel-tips/",
       "text": "Travel Tips"
     },
     {
-      "url": "/en/itineraries/",
+      "url": "/my/itineraries/",
       "text": "Itineraries"
     }
   ],
   "account": [
     {
-      "url": "/en/itineraries/",
+      "url": "/my/itineraries/",
       "text": "Plan your trip",
       "isButton": true
     }

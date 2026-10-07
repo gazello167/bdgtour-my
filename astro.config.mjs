@@ -9,7 +9,7 @@ import relativeLinks from "astro-relative-links";
 export default defineConfig({
   // --- TAMBAHKAN DUA BARIS INI ---
   site: "https://www.bandung-tour.com",
-  base: "/en/",
+  base: "/my/",
   // --------------------------------
   devToolbar: {
     enabled: false,

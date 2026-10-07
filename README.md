@@ -1,4 +1,4 @@
-# Travellian - Travel Agency Landing Page
+# Bandung-Tour.com - Travel Agency Landing Page
 
 A travel agency landing page built with Astro, designed for speed, scalability, and excellent user experience.
 

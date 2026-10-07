@@ -1,4 +1,4 @@
-// src/pages/sitemap.xml.ts  ->  https://www.bandung-tour.com/en/sitemap.xml
+// src/pages/sitemap.xml.ts  ->  https://www.bandung-tour.com/my/sitemap.xml
 // Dibuat saat build dari D1: semua halaman + lastmod + foto (hero & galeri) untuk Google Images.
 import type { APIRoute } from "astro";
 import {
